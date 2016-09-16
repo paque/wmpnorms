@@ -15,7 +15,8 @@ var norms = [
   'A sense of humor is a job requirement.',
   'Beer will always be served at 3:30 or earlier',
   'We have fun. Lots of fun. All the time. Fun.',
-  'We like to work hard. Passion is a pre-requisite/'
+  'We like to work hard. Passion is a pre-requisite.',
+  'We use git very well.'
 ];
 
 function printRandomNorm() {
