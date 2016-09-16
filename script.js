@@ -14,7 +14,8 @@ var norms = [
   'We frequently practice the “Around the Horn” tradition.',
   'A sense of humor is a job requirement.',
   'Beer will always be served at 3:30 or earlier',
-  'We have fun. Lots of fun. All the time. Fun.'
+  'We have fun. Lots of fun. All the time. Fun.',
+  'We like to work hard. Passion is a pre-requisite/'
 ];
 
 function printRandomNorm() {
